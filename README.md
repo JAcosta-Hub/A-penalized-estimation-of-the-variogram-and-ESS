@@ -1,0 +1,1 @@
+# A-penalized-estimation-of-the-variogram-and-effective-sample-size
